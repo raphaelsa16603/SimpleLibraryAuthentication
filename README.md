@@ -31,7 +31,7 @@ SimpleLibraryAuthentication é uma aplicação exemplo desenvolvida em C# que de
 
 1. **Clone o Repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/SimpleLibraryAuthentication.git
+    git clone https://github.com/raphaelsa16603/SimpleLibraryAuthentication/tree/main
     ```
 2. **Configuração do Banco de Dados**:
     - Execute o script `CreateDatabaseAndUserTable.sql` no SQL Server para criar o banco de dados e a tabela de usuários.
