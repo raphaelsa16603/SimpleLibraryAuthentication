@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleLibraryAuthentication", "SimpleLibraryAuthentication.csproj", "{F7AD0E34-0B52-485C-A022-E93D9E042F53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleLibraryAuthentication", ".\Simple-Library-Authentication\SimpleLibraryAuthentication.csproj", "{F7AD0E34-0B52-485C-A022-E93D9E042F53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLibraryAuthenticationConsoleApp", "..\SimpleLibraryAuthenticationConsoleApp\SimpleLibraryAuthenticationConsoleApp.csproj", "{4D12B062-B93A-46C9-A2A4-DD64AE9C5E6C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLibraryAuthenticationConsoleApp", ".\SimpleLibraryAuthenticationConsoleApp\SimpleLibraryAuthenticationConsoleApp.csproj", "{4D12B062-B93A-46C9-A2A4-DD64AE9C5E6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
